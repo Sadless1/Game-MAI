@@ -2,13 +2,13 @@
 Dự án game chủ đề sử việt thời kì kháng chiến chống Mĩ của nhóm Maurice
 
 Thành viên: 
-PH61470	Cung Đỗ Hoàng Khánh(nhóm trưởng)
+PH61470	Cung Đỗ Hoàng Khánh(nhóm trưởng/dev/designer)
 
-PH61289	Trần Đức Thuận
+PH61289	Trần Đức Thuận(dev)
 
-PH61064	Nguyễn Nhật Huy
+PH61064	Nguyễn Nhật Huy(dev)
 
-PH61147	Trần Tài Tùng
+PH61147	Trần Tài Tùng(dev)
 
 Trong thời gian làm việc nhóm, chúng em gặp nhiều khó khăn về mặt kỹ thuật như:
 - Làm quen với công cụ Unity và GitHub
